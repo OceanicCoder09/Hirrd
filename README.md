@@ -26,10 +26,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> (Add UI previews of recruiter and seeker dashboards here)
-
 ---
 
 ## 📦 Installation
